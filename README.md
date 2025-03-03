@@ -15,11 +15,3 @@ Working towards all of the [FreeCodeCamp Certificates](https://www.freecodecamp.
 geek cred: <br>
 [LinkedIn](https://www.linkedin.com/in/adamadamadam/) <br>
 [adamfilchoir.com](https://adamfilchoir.com/)
-
-
-Freecodecamp Certs
-- Responsive Web Design Certificate
-- Javascript Algorithms and Data Structures Certificate
-- Data Visualization Certificate
-- Scientific Computing with Python Certificate
-- Backend Development and APIs Certificate
